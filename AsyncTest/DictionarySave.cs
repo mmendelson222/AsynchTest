@@ -10,6 +10,9 @@ using System.Xml.Serialization;
 
 namespace AsyncTest
 {
+    /// <summary>
+    /// I added a comment.
+    /// </summary>
     class DictionarySave
     {
         private static bool PromptAfter = true;
