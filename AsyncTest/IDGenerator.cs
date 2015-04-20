@@ -8,6 +8,10 @@ using System.Threading.Tasks;
 
 namespace AsyncTest
 {
+    /// <summary>
+    /// Michael added this comment
+    /// </summary>
+
     class IdGenerator
     {
         private static bool PromptAfter = true;
