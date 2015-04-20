@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace AsyncTest
 {
+    /// <summary>
+    /// Michael added this comment
+    /// </summary>
     class Program
     {
         private static bool PromptAfter = true;

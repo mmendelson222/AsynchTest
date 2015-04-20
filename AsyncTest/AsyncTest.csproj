@@ -50,6 +50,7 @@
     <Compile Include="ExpiringList.cs" />
     <Compile Include="IdGenerator.cs" />
     <Compile Include="ListContains.cs" />
+    <Compile Include="MichaelClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
