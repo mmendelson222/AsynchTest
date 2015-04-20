@@ -13,8 +13,13 @@ namespace AsyncTest
     {
         private static bool PromptAfter = true;
 
+        /// <summary>
+        /// adding comments by Avani
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
+            //adding comment in expiring list by Avani
             Console.WriteLine("Main start");
             ExpiringList<string> mylist = new ExpiringList<string>(100, 2000);
 
